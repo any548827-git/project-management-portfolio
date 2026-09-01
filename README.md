@@ -16,6 +16,9 @@ This portfolio showcases selected project work in project planning, scheduling, 
 - Stakeholder Analysis
 - Business Case Analysis
 
+- Local Microgrid Development
+- 
+
 ## Tools
 
 - Microsoft Project
