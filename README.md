@@ -22,6 +22,7 @@ This portfolio showcases selected project work in project planning, scheduling, 
 - Jira
 - Microsoft Excel
 - PowerPoint
+- Trello
 
 ## Contact
 
